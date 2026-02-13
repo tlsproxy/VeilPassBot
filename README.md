@@ -1,12 +1,22 @@
 # VeilPassBot — Telegram 双向客服中继系统
 
+<div align="center">
+
 一个专为 Telegram 场景设计的客服中继 Bot，用于在 **用户 ↔ 客服团队** 之间建立安全、可协作、可管理的双向通信通道。
 
 适用于：客服支持、匿名联系、售后服务、频道咨询、私域沟通。
 
-> 体验连接：https://t.me/VeilPassBot?start=start @VeilPassBot
+体验连接：https://t.me/VeilPassBot?start=start @VeilPassBot
 
 ![logo](./images/logo256x256.jpg)
+
+</div>
+
+## 🌍 Language
+
+- 🇨🇳 简体中文（当前）
+- 🇺🇸 [English](./README_EN.md)
+
 
 ---
 
@@ -146,3 +156,12 @@ Your Bot 👈 VeilPassBot
 
 体验连接：https://t.me/VeilPassBot?start=start @VeilPassBot
 
+### 客户视角
+
+![logo](./images/u1.jpeg)
+
+### 管理员或助理视角
+
+![logo](./images/a1.jpeg)
+
+![logo](./images/a2.jpeg)
