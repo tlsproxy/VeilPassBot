@@ -4,9 +4,12 @@ A customer service relay bot designed specifically for Telegram, used to build a
 
 Suitable for: customer support, anonymous contact, after-sales service, channel inquiries, and private communications.
 
-Try it here: https://t.me/VeilPassBot?start=start @VeilPassBot
-
 ![logo](./images/logo256x256.jpg)
+
+https://t.me/VeilPassBot?start=start
+
+[@VeilPassBot](https://t.me/VeilPassBot?start=start)
+
 </div>
 
 
