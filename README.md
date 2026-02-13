@@ -4,7 +4,9 @@
 
 适用于：客服支持、匿名联系、售后服务、频道咨询、私域沟通。
 
-> 体验连接：https://t.me/VeilPassBot @VeilPassBot
+> 体验连接：https://t.me/VeilPassBot?start=start @VeilPassBot
+
+![logo](./images/logo256x256.jpg)
 
 ---
 
@@ -142,5 +144,5 @@ Your Bot 👈 VeilPassBot
 
 ## 🚀 快速开始
 
-体验连接：https://t.me/VeilPassBot @VeilPassBot
+体验连接：https://t.me/VeilPassBot?start=start @VeilPassBot
 
